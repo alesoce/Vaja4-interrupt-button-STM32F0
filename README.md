@@ -2,4 +2,4 @@
 Modra tipka utripi pravilno po navodilih, zelena tipka pa ne dela
 ODGOVORI:
 
-3. d) 
+3. d) <100 milisekund
